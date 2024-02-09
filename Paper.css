@@ -1,3 +1,7 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Protest+Revolution&family=Rochester&display=swap');
+
+
 * {
     margin: 0;
     padding: 0;
@@ -9,6 +13,7 @@ h1{
     color: #fff;
     height: 5rem;
     line-height: 5rem;
+    font-family: "Rochester", cursive;
 }
 
 .choice{ 
